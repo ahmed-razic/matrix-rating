@@ -25,7 +25,7 @@
 
 <p>Matrix Movies Rating is small web app done in React.</p>
 
-<p>Working app is deployed on Netlify and there is also a link for video presentation.</p>
+<p>Working app is deployed on Netlify and there is also a youtube link.</p>
 
 ## Screenshot
 
