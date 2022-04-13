@@ -16,7 +16,7 @@
     background: #FE938C;
     border-radius:10px;
     font-size:0.85rem;
-    font-weight:600;">YouTube Presentation</a> 
+    font-weight:600;">YouTube</a> 
 </div>
 
 ---
